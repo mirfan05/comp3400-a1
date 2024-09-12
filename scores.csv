@@ -1,9 +1,0 @@
-classname,testname,max_score
-PartA.coins_to_cents_basic,PartA.coins_to_cents_basic,11
-PartA.coins_to_cents_mix,PartA.coins_to_cents_mix,11
-PartA.coins_to_cents_error,PartA.coins_to_cents_error,11
-PartB.shipping_cost_basic,PartB.shipping_cost_basic,11
-PartB.shipping_cost_error,PartB.shipping_cost_error,11
-PartC.add_all_evens_basic,PartC.add_all_evens_basic,11
-PartC.add_all_evens_same,PartC.add_all_evens_same,11
-PartC.add_all_evens_none,PartC.add_all_evens_none,11
